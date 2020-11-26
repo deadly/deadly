@@ -1,7 +1,7 @@
 <a href="https://github.com/deadly">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=234asdfvb&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/deadly">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadly&theme=radical&card_width=495" />
 </a>
 <a href="https://github.com/deadly/server-badge-exploit">
