@@ -2,7 +2,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=234asdfvb&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadly&theme=radical&card_width=500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadly&theme=radical&card_width=475" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
