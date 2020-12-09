@@ -7,6 +7,6 @@
 <a href="https://github.com/deadly/Cyrillic">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deadly&repo=cyrillic&theme=radical" />
 </a>
-<a href="https://github.com/deadly/server-badge-exploit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deadly&repo=server-badge-exploit&theme=radical" />
+<a href="https://github.com/deadly/server-badge-bug">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deadly&repo=server-badge-bug&theme=radical" />
 </a>
