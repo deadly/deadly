@@ -1,5 +1,5 @@
 <a href="https://github.com/deadly">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=deadly&color=blueviolet" />
 </a>
 <br/>
 <a href="https://github.com/deadly">
