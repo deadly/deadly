@@ -1,4 +1,7 @@
 <a href="https://github.com/deadly">
+  <img align="left" src="https://komarev.com/ghpvc/?username=your-github-username&color=bluebiolet" />
+</a>
+<a href="https://github.com/deadly">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=234asdfvb&theme=radical" />
 </a>
 <a href="https://github.com/deadly">
