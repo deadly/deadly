@@ -9,5 +9,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deadly&repo=cyrillic&theme=radical" />
 </a>
 <a href="https://github.com/deadly/discord-chatbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deadly&repo=discord-chatbottheme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deadly&repo=discord-chatbot&theme=radical" />
 </a>
